@@ -1,6 +1,6 @@
-# 40 Favorite Interview Questions from Some of the Sharpest Folks We Know
+# Culture Fit Interview Questions
 
-#### (Source)[https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/]
+#### [Source](https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/)
 
 ## QUESTIONS TO HELP UNPACK PIVOTAL TRANSITIONS:
 
@@ -13,14 +13,12 @@
 1. Among the people you've worked with, who do you admire and why?
 1. Tell me about a time you took unexpected initiative. Follow-up: Can you tell me about another?
 1. What’s something great about your current or previous job? Why?
-1. What motivates you to work?
-1. Looking back on the last five years of your career, what’s the highlight?
+1. Looking back on the last five years of your career, what’s the highlight? Why?
 
 ## QUESTIONS ON THEIR FIT FOR THE ROLE:
 
 1. What are you really good at, but never want to do anymore?
 1. What’s the difference between someone who’s great in your role versus someone who’s outstanding?
-1. What do you believe you can achieve with us personally or professionally that you can't anywhere else in the world?
 1. What are the three most important traits of this role? How would you stack rank yourself from strongest to least developed among these traits?
 1. Tell me about your ideal next role. What characteristics does it have from a responsibility, team, and company culture perspective? What characteristics does it not have?
 1. It's (A future date). What impact on the business have you made in the year since you’ve joined?
@@ -33,7 +31,7 @@
 
 ## QUESTIONS ON LEARNING FROM MISTAKES:
 
-1. When was the last time you changed your mind about something important?
+1. When was the last time you changed your mind about something important? Why?
 1. What's the most important thing you've learned from a peer and how have you used that lesson in your day-to-day life?
 1. Tell me about a time you really screwed something up. How did you handle it and how did you address the mistake?
 1. Tell me about a time you made a mistake or failed at something. What did you learn from this experience? Can you give me two other examples?
@@ -60,13 +58,20 @@
 
 1. Why shouldn't we hire you?
 1. What should our team be doing differently that could yield 10x improvement?
-1. Teach me something.
+1. Teach me something (5 minutes max).
 
 ## QUESTIONS THAT DIG INTO HOW THEY THINK:
 
-1. If you were to take over as CEO of your current company tomorrow, and had to increase your company's current rate of growth, what three areas you would invest in?
+1. If you were to take over as CEO of your current company tomorrow, and had to increase your company's current rate of growth, what three areas you would invest in? Why?
 1. How would you build a product for people who are looking for an apartment?
 1. What are 10 ways to speed up Domino’s pizza delivery?
+
+## QUESTIONS THAT DETERMINE MBTI TYPE:
+
+1. Imagine spending 3 hours at a party. Would you feel more energized after 3 hours of social interaction, or more drained?
+1. You have the choice between kinds of classes. Would you prefer to take all abstract classes about tactics and theory? Or would you rather take concrete classes about facts & history? You have to choose one; you cannot combine kinds of classes.
+1. When talking about past experiences with someone else; do you prefer to connect emotionally over shared experiences, or learning more about the person's mistakes & lessons learned?
+1. When making a decision, do you make a quick judgement, or take time to review all of the options before finally deciding on what to do?
 
 ## QUESTIONS THAT FLIP THE SCRIPT:
 
